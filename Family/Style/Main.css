@@ -1,0 +1,39 @@
+body{
+  background-color: #f7f7f7;
+}
+
+header{
+  background-image: url(../Images/Family_Header.jpg);
+  color: #222831;
+  padding: 20px 0px;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+nav{
+  background-color: #30475e;
+  color: #dddddd;
+  width: 10%;
+  float: left;
+  height: 500px;
+  font-family: sans-serif;
+}
+
+section{
+  background: #dddddd;
+  color: #222831;
+  padding-left: 10%;
+  font-family: sans-serif;
+}
+
+a{
+  text-decoration: underline;
+  display: inline;
+  color: #f05454;
+  font-family: sans-serif;
+}
+
+nav li{
+  list-style: none;
+  padding: 1px;
+}
