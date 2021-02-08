@@ -27,7 +27,7 @@ section{
 }
 
 a{
-  text-decoration: underline;
+  text-decoration: none;
   display: inline;
   color: #f05454;
   font-family: sans-serif;

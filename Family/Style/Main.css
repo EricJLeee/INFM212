@@ -27,10 +27,19 @@ section{
 }
 
 a{
-  text-decoration: underline;
-  display: inline;
+  text-decoration: none;
+  display: block;
+  background-color: #30475e;
   color: #f05454;
   font-family: sans-serif;
+}
+
+a:hover{
+  background-color: #dddddd;
+}
+
+.currentactive{
+  background-color: #dddddd;
 }
 
 nav li{
